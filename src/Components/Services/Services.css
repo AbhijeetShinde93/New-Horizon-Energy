@@ -1,0 +1,130 @@
+.services_section {
+  padding: 4rem 0rem;
+}
+
+.services_section .bg-heading-imag {
+  background-image: url("../../assets/2941343.jpg");
+  background-position: 0px 53%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.services_section .main-about {
+  padding: 9rem 1rem;
+  position: relative;
+}
+
+.services_section .header-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  /* top: 70%; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.services_section h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.services_section .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.4;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.service_content {
+  padding: 4rem 0rem;
+}
+
+.new_heading {
+  padding-bottom: 5px;
+}
+
+.what_we_do_heading {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  color: #0093d0;
+}
+
+.sub_para {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+}
+
+.service_content ul {
+  padding: 0rem 2rem;
+}
+
+.service_content ul li {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+}
+
+.points_for_whtwedo {
+  padding-top: 2rem 0rem 2rem 0rem;
+}
+
+.points_images {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.whtwedo_sec {
+  padding: 1rem;
+  text-align: justify;
+}
+
+.pad_tb {
+  padding: 2rem 0rem;
+}
+
+.points_for_whtwedo .points_heading {
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  color: #0093d0;
+  padding-bottom: 1rem;
+}
+
+.points_text {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+}
+
+.whtwedo_sec h5 {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 600;
+}
+
+.whtwedo_sec ul li {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .pad_tb {
+    padding: 0rem;
+  }
+}

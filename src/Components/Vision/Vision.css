@@ -1,0 +1,119 @@
+.vision_section {
+  padding: 5rem 0rem;
+}
+.vision_section .bg-heading-imag {
+  background-image: url("../../assets/2941297.jpg");
+  background-position: 0px 33%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.vision_section .main-vision {
+  padding: 9rem 1rem;
+  position: relative;
+}
+.vision_section .header-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  /* top: 70%; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.vision_section h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.vision_section .sub_headng {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  padding: 0% 30% 0% 30%;
+}
+
+.vision_section .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.58;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.vison_sec {
+  padding: 4rem 0rem 3rem 0rem;
+}
+
+.v-card {
+  border: none;
+}
+
+.v-card .image_size {
+  width: 100%;
+  height: auto;
+}
+
+.v-card .card-body {
+  margin: -25% 5% 0% 5%;
+  background: #fff;
+}
+
+.v-card .card-title {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #0093d0;
+  text-align: center;
+  width: 90%;
+  line-height: 1.95rem;
+}
+
+.v-card .card-text {
+  font-family: "poppins", sans-serif;
+  font-weight: 600;
+  color: #7a7a7a;
+  padding: 16px;
+  text-align: center;
+}
+
+.teams {
+  background: #0093d00d;
+  padding: 4rem 0rem;
+  margin-top: 3rem;
+}
+
+.new_heading {
+  padding-bottom: 5px;
+}
+
+.ourteam_heading {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  color: #0093d0;
+  text-align: center;
+}
+
+.team_div .sub_text {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+  .v-card .card-title {
+    width: 100%;
+  }
+}

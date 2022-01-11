@@ -1,0 +1,42 @@
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .slider_img {
+    height: 380px;
+  }
+
+  .carousel-caption {
+    bottom: 1.25rem;
+  }
+
+  .carousel-caption h3 {
+    font-size: 16px;
+  }
+
+  .sub_text {
+    width: 100%;
+  }
+
+  .who_we_are_section .right-section {
+    padding: 1rem;
+    text-align: center;
+  }
+}
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 576px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+/* // Large devices (desktops, 992px and up) */
+@media only screen and (min-device-width: 992px) and (-webkit-min-device-pixel-ratio: 2) {
+}
+/* // X-Large devices (large desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+  .for-mobile {
+    margin: auto 0;
+  }
+}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media only screen and (min-width: 1400px) and (-webkit-min-device-pixel-ratio: 2) {
+}
