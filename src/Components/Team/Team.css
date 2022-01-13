@@ -1,0 +1,160 @@
+.team_Section {
+  padding: 4rem 0rem;
+}
+
+.team_Section .bg-heading-imag {
+  background-image: url("../../assets/2941558.jpg");
+  background-position: 0px 33%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.team_Section .main-about {
+  padding: 9rem 1rem;
+  position: relative;
+}
+.team_Section .header-content {
+  position: absolute;
+  left: 0;
+  right: 0;
+  /* top: 70%; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.team_Section h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.team_Section .elementor-background-overlay {
+  background-color: #000000;
+  opacity: 0.4;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.team_content {
+  padding: 4rem 0rem 2rem;
+}
+
+.team_content .sub_text {
+  font-size: 16px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.teams {
+  background: #0093d00d;
+  padding: 4rem 2rem;
+}
+
+.team_member_img {
+  width: 220px;
+  height: 240px;
+  border-radius: 20px;
+  object-fit: cover;
+}
+
+.member_details {
+  padding: 0rem 2rem;
+}
+
+.pad_2 {
+  padding: 1rem;
+}
+
+.member_name {
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  color: #0093d0;
+}
+
+.member_info {
+  font-size: 15px;
+  font-family: "poppins", sans-serif;
+  color: #7a7a7a;
+  font-weight: 500;
+  text-align: justify;
+}
+
+.show_team {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.show_team_2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 320px) and (-webkit-min-device-pixel-ratio: 2) {
+  .show_team {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .show_team_2 {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+  }
+
+  .teams {
+    padding: 2rem 2rem;
+  }
+
+  .member_details {
+    padding: 0;
+  }
+}
+/* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-device-width: 576px) and (-webkit-min-device-pixel-ratio: 2) {
+  .show_team {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .show_team_2 {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+  }
+
+  .teams {
+    padding: 2rem 2rem;
+  }
+
+  .member_details {
+    padding: 0;
+  }
+}
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+  .show_team {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .show_team_2 {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-end;
+  }
+}

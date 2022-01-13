@@ -73,7 +73,7 @@ const Vision = () => {
             </div>
           </div>
         </div>
-        <div className="container-fluid teams">
+        {/* <div className="container-fluid teams">
           <div className="container">
             <div className="row">
               <div className="team_div">
@@ -107,7 +107,7 @@ const Vision = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </section>
     </section>
   );

@@ -83,34 +83,6 @@
   text-align: center;
 }
 
-.teams {
-  background: #0093d00d;
-  padding: 4rem 0rem;
-  margin-top: 3rem;
-}
-
-.new_heading {
-  padding-bottom: 5px;
-}
-
-.ourteam_heading {
-  font-weight: 600;
-  font-family: "Poppins", sans-serif;
-  font-size: 2rem;
-  color: #0093d0;
-  text-align: center;
-}
-
-.team_div .sub_text {
-  font-size: 16px;
-  font-family: "poppins", sans-serif;
-  color: #7a7a7a;
-  font-weight: 500;
-  width: 80%;
-  margin: auto;
-  padding-bottom: 20px;
-}
-
 /* Medium devices (tablets, 768px and up) */
 @media only screen and (min-device-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
   .v-card .card-title {

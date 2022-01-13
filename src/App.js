@@ -12,6 +12,7 @@ import About from "./Components/About/About";
 import Contact from "./Components/Contact/Contact";
 import Vision from "./Components/Vision/Vision";
 import Services from "./Components/Services/Services";
+import Team from "./Components/Team/Team";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
             <Route path="/contactus" component={Contact} />
             <Route path="/ourvision" component={Vision} />
             <Route path="/ourservices" component={Services} />
+            <Route path="/ourteam" component={Team} />
           </Switch>
         </div>
       </Router>
