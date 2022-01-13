@@ -28,9 +28,9 @@ const Vision = () => {
                 <div className="card-body">
                   <h4 className="card-title">Our Vision</h4>
                   <p className="card-text">
-                    Our Vision is to become a reliable global energy solution
-                    and innovative infrastructure solutions provider
-                    consistently delivering excellence as a single point source.
+                    Our Vision is to become a reliable global energy and
+                    innovative infrastructure solutions provider consistently
+                    delivering excellence.
                   </p>
                 </div>
               </div>
@@ -65,8 +65,9 @@ const Vision = () => {
                 <div className="card-body">
                   <h4 className="card-title">Our Value</h4>
                   <p className="card-text">
-                    Our Corporate Values are Quality, Reliability, Safety,
-                    Innovation, Team Work & Long-term client relationships
+                    Our Corporate Values are Quality, Reliability,
+                    Sustainability, Innovation, Team Work & Long-term client
+                    relationships.
                   </p>
                 </div>
               </div>

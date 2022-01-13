@@ -22,10 +22,9 @@ const Services = () => {
             </div>
             <div className="sub_content">
               <p className="sub_para">
-                New Horizon Energy is one of the major oil and gas producers and
-                sellers in Middle East and Asia and a key player in the world
-                petroleum industry. It engages in various activities involving
-                oil, gas and new energy, including:
+                New Horizon Energy is one of the regional oil and gas
+                enterprises in Middle East and Asia and engages in various
+                activities involving oil, gas and new energy, including:
               </p>
             </div>
 
@@ -58,21 +57,19 @@ const Services = () => {
             <div className="whtwedo_sec">
               <h3 className="points_heading">Oil and Gas Exploration</h3>
               <p className="points_text">
-                We at NHE work with a vision to become the market leaders in
-                helping meet the world’s growing demand for energy
+                We at New Horizon Energy work with a vision to become the market
+                leaders in helping meet the world’s growing demand for energy
               </p>
               <p className="points_text">
                 Our Upstream business combines innovation and the effective use
                 of technology to maximize mature fields, discover new resources
                 and meet the world’s growing demand for energy. Through targeted
                 investments and a consistent focus on operational excellence, we
-                are developing the next generation of legacy producers.
+                focus on developing sustainable oil & gas assets.
               </p>
               <p className="points_text">
-                Our portfolio spans across all forms of energy across
-                geographies. Exploring and producing in each of these regions
-                offers exciting opportunities to meet tomorrow’s complex energy
-                challenges.
+                Exploring and investing in strategic assets offer exciting
+                opportunities to meet tomorrow’s complex energy challenges.
               </p>
             </div>
           </div>
@@ -87,21 +84,19 @@ const Services = () => {
                   New Horizon Energy and its partners has been active in tank
                   storage logistics and is one of the largest independent
                   operators of tank terminals for oils, gases and chemicals
-                  worldwide. NHE provides global clients with oil & gas onshore
-                  storage construction services in the filed of crude oil,
+                  worldwide. We provide global clients with oil & gas onshore
+                  storage construction services in the field of crude oil,
                   product oil, LPG, and underground oil and gas storage cavern,
                   with the capability to construct 10 million m³ storage per
-                  year. The company owns and operates 400 000 m³ storage tanks
-                  facilities for Clean products Dirty products facility in UAE
-                  and Malaysia, 40 000 m³ Clean and Dirty Petroleum products
-                  facility in UAE, and 400 000 m³ in Malaysia
+                  year.
                 </p>
+
                 <p className="points_text">
-                  NHE is a consumer orientated business offering the highest
-                  quality products at the right price, together with our highly
-                  effective service. We add value to local and regional supply
-                  chains by basing our business efficiency and risk management.
-                  Our clients include private and state oil companies, refiners,
+                  The company owns and operates 400 000 m³ storage tanks
+                  facilities for clean products dirty products facility in UAE
+                  and Malaysia, 40 000 m³ clean and dirty petroleum products
+                  facility in UAE, and 400 000 m³ in Malaysia. Our clients
+                  include private and state oil companies, refiners,
                   petrochemical companies, and traders in petroleum products and
                   chemicals.
                 </p>
@@ -131,23 +126,21 @@ const Services = () => {
               <p className="points_text">
                 Oil is one of the world's most traded commodities and presents
                 many challenges, not least the close association between the oil
-                price and the politics of some of the world’s most volatile
-                regions. This instability continues to contribute to the high
-                level of market speculation in relation to pricing and future
-                availability.
+                price and global geo-political policies. This instability
+                continues to contribute to the high level of market speculation
+                in relation to pricing and future availability.
               </p>
               <p className="points_text">
-                Our core trading business is sourcing, supplying and trading
-                refined petroleum products from origins, we plan to expand our
-                portfolio to encompass petrochemicals, tar coal, and oil field
-                machinery and equipment
+                Our core business is sourcing, supplying and trading refined
+                petroleum products from origins. We have expanded our portfolio
+                to encompass petrochemicals, tar coal, and oil field machinery
+                and equipment.
               </p>
               <p className="points_text">
-                Our oil & gas trading has decades of experience working with
+                Our oil & gas trading arm has decades of experience working with
                 government owned producers, leading oil traders and energy
-                multinationals. This has given us critical insight into how to
-                put together deals, assess risks and advise on trading issues
-                and the financing, transport and supply of oil and gas.
+                multinationals. This has given us critical insight into project
+                development, risk management and financial structuring.
               </p>
             </div>
           </div>

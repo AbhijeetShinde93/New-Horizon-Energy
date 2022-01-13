@@ -18,21 +18,6 @@ const Contact = () => {
       <section className="getintouch">
         <div className="container">
           <div className="row">
-            <div className="col-lg-12 col-md-12 col-12 text-center get_heading">
-              <img
-                src={process.env.PUBLIC_URL + "/icons/communicate.png"}
-                alt="icons"
-                className="head_icons"
-              />
-              <h2>Get In Touch</h2>
-              <p className="text-center sub_headng">
-                We would love to respond to your queries and help you feel free
-                to get in touch with us
-              </p>
-            </div>
-          </div>
-
-          <div className="row">
             {/* <div className="col-lg-4 col-md-4 col-sm-12 col-12">
               <div className="card contact_card">
                 <div className="text-center box-con">

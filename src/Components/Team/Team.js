@@ -24,12 +24,12 @@ const Team = () => {
               <p className="sub_text">
                 Our people are our most valuable assets and they have a crucial
                 role to play in enabling the “New Horizon Energy” to achieve its
-                vision to become global oil & gas premier facilities and
-                infrastructure provider. We therefore place the highest priority
-                on attracting, developing and retaining the best professionals
-                in the business. In return, we are committed to provide our
-                staff with an inspiring work environment, challenging roles and
-                responsibilities, promising career opportunities.
+                vision to become a global oil & gas major. We therefore place
+                the highest priority on attracting, developing and retaining the
+                best professionals in the business. In return, we are committed
+                to provide our staff with an inspiring work environment,
+                challenging roles and responsibilities, promising career
+                opportunities.
               </p>
             </div>
           </div>
@@ -37,15 +37,22 @@ const Team = () => {
       </div>
       <div className="conatiner-fluid teams">
         <div className="row">
+          <div className="text-center">
+            <p className="sub_text">
+              Our people are our most valuable assets and they have a crucial
+              role to play in enabling us achieve our vision to become a premier
+              global oil & gas company.
+            </p>
+          </div>
           <div className="col-12-lg col-12-md col-sm-12 col-12 pad_2">
             <div className="show_team">
-              <div>
+              {/* <div>
                 <img
                   className="team_member_img"
                   src="https://bootdey.com/img/Content/avatar/avatar2.png"
                   alt="team_member_img"
                 />
-              </div>
+              </div> */}
               <div className="member_details">
                 <h5 className="member_name">William Gregory Coleman</h5>
                 <p className="member_info">
@@ -76,7 +83,7 @@ const Team = () => {
           <div className="col-12-lg col-12-md col-sm-12 col-12 pad_2">
             <div className="show_team_2">
               <div className="member_details">
-                <h5 className="member_name text-end">David Bamford</h5>
+                <h5 className="member_name">David Bamford</h5>
                 <p className="member_info">
                   David Bamford is well known around the oil & gas industry both
                   as an explorer and a geophysicist. He holds a Physics degree
@@ -104,25 +111,25 @@ const Team = () => {
                   remote sensing company.
                 </p>
               </div>
-              <div>
+              {/* <div>
                 <img
                   className="team_member_img"
                   src="https://bootdey.com/img/Content/avatar/avatar6.png"
                   alt="team_member_img"
                 />
-              </div>
+              </div> */}
             </div>
           </div>
 
           <div className="col-12-lg col-12-md col-sm-12 col-12 pad_2">
             <div className="show_team">
-              <div>
+              {/* <div>
                 <img
                   className="team_member_img"
                   src="https://bootdey.com/img/Content/avatar/avatar7.png"
                   alt="team_member_img"
                 />
-              </div>
+              </div> */}
               <div className="member_details">
                 <h5 className="member_name">Richard Ndem</h5>
                 <p className="member_info">
@@ -155,7 +162,7 @@ const Team = () => {
           <div className="col-12-lg col-12-md col-sm-12 col-12 pad_2">
             <div className="show_team_2">
               <div className="member_details">
-                <h5 className="member_name text-end">Anil Kumar</h5>
+                <h5 className="member_name">Anil Kumar</h5>
                 <p className="member_info">
                   As the former Executive Director of ONGC, Anil Kumar has over
                   37 years of specialized hands on experience in reservoir
@@ -171,25 +178,25 @@ const Team = () => {
                   Development & EOR amongst many others.
                 </p>
               </div>
-              <div>
+              {/* <div>
                 <img
                   className="team_member_img"
                   src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/115490361/original/24750cc89e79244d350f49cac7097b68ba1215e4/create-a-cartoon-avatar-profile-pic.png"
                   alt="team_member_img"
                 />
-              </div>
+              </div> */}
             </div>
           </div>
 
           <div className="col-12-lg col-12-md col-sm-12 col-12 pad_2">
             <div className="show_team">
-              <div>
+              {/* <div>
                 <img
                   className="team_member_img"
-                  src="http://cliparts101.com/files/367/63BA654AECB7FD26A32D08915C923030/avatar_nick.png"
-                  alt="team_member_img"
+                  src="https://bootdey.com/img/Content/avatar/avatar6.png"
+                  alt="team_member_imgss"
                 />
-              </div>
+              </div> */}
               <div className="member_details">
                 <h5 className="member_name">Arvind Jayasing Morbale</h5>
                 <p className="member_info">

@@ -2,7 +2,7 @@ import React from "react";
 import "./Home.css";
 
 import "./Home_mediaquery.css";
-import { AiFillCaretRight, AiFillCaretLeft } from "react-icons/ai";
+
 import { Carousel } from "react-bootstrap";
 
 const Home = () => {
@@ -21,8 +21,8 @@ const Home = () => {
                 />
                 <Carousel.Caption>
                   <h3>
-                    New Horizon Energy an integrated oil and gas company focused
-                    on emerging markets of Asia, Middle East and Africa.
+                    An integrated oil and gas company focused on emerging
+                    markets of Asia, Middle East and Africa.
                   </h3>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -35,10 +35,9 @@ const Home = () => {
                 />
                 <Carousel.Caption>
                   <h3>
-                    We are engaged in a wide range of activities related to oil,
-                    gas and renewable energy segments with an objective of
-                    providing sustainable solutions for economic and social
-                    development.
+                    Engaged in a wide range of activities related to oil, gas
+                    and renewable energy segments with an objective of providing
+                    sustainable solutions for economic and social development.
                   </h3>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -60,7 +59,7 @@ const Home = () => {
               </p>
             </div>
           </div>
-          <div className="row flex-column-reverse flex-md-column flex-xl-row flex-lg-row mt-4">
+          <div className="row flex-md-column flex-xl-row flex-lg-row mt-4">
             <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 for-mobile my-auto">
               <img
                 className="who_we_are_img"
@@ -71,24 +70,20 @@ const Home = () => {
             <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 my-auto right-section">
               <div>
                 <p className="right_sec_para">
-                  We operate globally serving companies worldwide across
-                  continents. The diversity of our clientele form different
-                  region is well catered by us with our deep rooted
-                  understanding of regional and local petroleum and energy
-                  requirements.
-                </p>
-                <p className="right_sec_para">
-                  Having an extensive experience in the field of distribution,
-                  developing, shipping, hedging, trading, importing, exporting
-                  and marketing of oil and oil related products including Crude
-                  Oil, Gasoil, Gasoline, Fuel Oil, Heavy End and Naphtha in
-                  Middle East, Africa and Asia regions.
-                </p>
-                <p className="right_sec_para">
                   Our group also consists of an integrated logistics services
                   company with its own shipping line capable of handling over
                   100 Mn barrels every year and dedicated storage facilities
                   across the globe with overall capacity of 400,000 m³.
+                </p>
+                <p className="right_sec_para">
+                  We are focused on enabling business partners achieve their
+                  objectives through the application of knowledge, experience
+                  and innovation.
+                </p>
+                <p className="right_sec_para">
+                  Our customers are across geographies including China, Europe,
+                  Middle East and North Africa, South Asia, Southeast Asia and
+                  Far East Asia.
                 </p>
               </div>
             </div>
