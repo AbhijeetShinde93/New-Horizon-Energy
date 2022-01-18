@@ -32,10 +32,6 @@ const About = () => {
                   We provide integrated services with our own shipping lines
                   including a strategic partnership for oil supply with a proven
                   capability of handling over 100 million barrels year-on-year.
-                  As an established enterprise in the supply of petroleum
-                  products, over the years we have emerged as a premier single
-                  source solutions provider for mid-size onshore & off-shore
-                  projects tailored bespoke as per customers’ complete needs.
                 </p>
               </div>
             </div>
@@ -58,21 +54,15 @@ const About = () => {
               <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 my-auto">
                 <div className="after_img_content ">
                   <p className="right_sec_para">
+                    As an established enterprise in the supply of petroleum
+                    products, over the years we have emerged as a premier single
+                    source solutions provider for mid-size onshore & off-shore
+                    projects tailored bespoke as per customers’ complete needs.
+                  </p>
+                  <p className="right_sec_para">
                     We also have strong partnerships with reliable suppliers so
                     that we can guarantee the highest standards in products and
                     services in whichever region we operate.
-                  </p>
-
-                  <p className="right_sec_para">
-                    We are focused on enabling business partners to achieve
-                    their objectives through the application of knowledge,
-                    experience and innovation.
-                  </p>
-
-                  <p className="right_sec_para">
-                    Our customers are across geographies including China,
-                    Europe, Middle East and North Africa, South Asia, Southeast
-                    Asia and Far East Asia.
                   </p>
                 </div>
               </div>

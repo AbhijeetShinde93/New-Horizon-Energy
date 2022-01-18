@@ -15,21 +15,9 @@ const Team = () => {
           <div className="row">
             <div className="text-center">
               <p className="sub_text">
-                Our ability to mobilize human and financial resources for the
-                management of diversified operations makes us preferred
-                contractor for critical projects. We recognize the adaptability
-                of our multinational and multicultural workforce as the key
-                success factor for successful project completions.
-              </p>
-              <p className="sub_text">
                 Our people are our most valuable assets and they have a crucial
-                role to play in enabling the “New Horizon Energy” to achieve its
-                vision to become a global oil & gas major. We therefore place
-                the highest priority on attracting, developing and retaining the
-                best professionals in the business. In return, we are committed
-                to provide our staff with an inspiring work environment,
-                challenging roles and responsibilities, promising career
-                opportunities.
+                role to play in enabling us achieve our vision to become a
+                premier global oil & gas company.
               </p>
             </div>
           </div>
@@ -37,13 +25,6 @@ const Team = () => {
       </div>
       <div className="conatiner-fluid teams">
         <div className="row">
-          <div className="text-center">
-            <p className="sub_text">
-              Our people are our most valuable assets and they have a crucial
-              role to play in enabling us achieve our vision to become a premier
-              global oil & gas company.
-            </p>
-          </div>
           <div className="col-12-lg col-12-md col-sm-12 col-12 pad_2">
             <div className="show_team">
               {/* <div>

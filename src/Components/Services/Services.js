@@ -58,7 +58,7 @@ const Services = () => {
               <h3 className="points_heading">Oil and Gas Exploration</h3>
               <p className="points_text">
                 We at New Horizon Energy work with a vision to become the market
-                leaders in helping meet the world’s growing demand for energy
+                leader in helping meet the world’s growing demand for energy.
               </p>
               <p className="points_text">
                 Our Upstream business combines innovation and the effective use
@@ -92,13 +92,11 @@ const Services = () => {
                 </p>
 
                 <p className="points_text">
-                  The company owns and operates 400 000 m³ storage tanks
-                  facilities for clean products dirty products facility in UAE
-                  and Malaysia, 40 000 m³ clean and dirty petroleum products
-                  facility in UAE, and 400 000 m³ in Malaysia. Our clients
-                  include private and state oil companies, refiners,
-                  petrochemical companies, and traders in petroleum products and
-                  chemicals.
+                  The company owns and operates storage tanks facilities for
+                  clean products dirty products (crude oil, fuel oil and diesel
+                  oil) in Asia. Our clients include private and state oil
+                  companies, refiners, petrochemical companies, and traders in
+                  petroleum products and chemicals.
                 </p>
               </h3>
             </div>
@@ -153,8 +151,8 @@ const Services = () => {
                 <h3 className="points_heading">Shipping Lines</h3>
                 <p className="points_text">
                   Our group also consists of an integrated logistics services
-                  company with its own shipping line capable of handling over
-                  100 Mn barrels every year
+                  company with its own shipping line catering to the group’s
+                  requirements and also to those of our global clientele.
                 </p>
                 <h5>Key values</h5>
                 <ul>
